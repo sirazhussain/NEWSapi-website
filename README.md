@@ -4,6 +4,6 @@ I created a News website using React and News API To Fetch News. 😁 The websit
 
 #u need this to run this app
 
-create react app
+-create react app
 
-npm install axios
+-npm install axios
